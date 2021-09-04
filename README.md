@@ -1,1 +1,1 @@
-# http//:shaaker-ma.github.io
+# shaaker-ma.github.io
