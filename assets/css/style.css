@@ -13,6 +13,10 @@ body {
   color: #272829;
 }
 
+#my{
+  zoom: 90%;
+  }
+
 a {
   color: #149ddd;
   text-decoration: none;
